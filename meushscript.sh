@@ -1,12 +1,11 @@
 #!/bin/bash
 #cd /
 #ls -la | more
-#echo "LO chegou chegando!"
 #echo -n "seu nome "
 #whoami 
 #echo -e " esta em $HOME"
 #nome="luis"
-#funcao="comer o cu de todo mundo"
+#funcao="programar"
 #echo "$nome tem a funcao de $funcao"
 #com=`cat meushscript.sh | grep nome`
 #echo $com 
@@ -15,7 +14,7 @@
 #echo "executando o.sh"
 if [ -d Downloads ]
 then 
-echo "é ué"
+echo "ok"
 else
-echo "xii"
+echo "problema"
 fi
