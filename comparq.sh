@@ -6,7 +6,7 @@ then
 	then	
 	echo "existe"
 	else
-	echo "fudeu"
+	echo "não existe"
 	fi
 else
 ls 
