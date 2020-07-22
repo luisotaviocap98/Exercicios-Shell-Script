@@ -3,5 +3,5 @@ read -t 2 -p "fala seu nome"
 echo $REPLY
 if [ -n $REPLAY ]
 then
-echo "demorou muito, ta vendo porno?"
+echo "demorou muito para digitar"
 fi
