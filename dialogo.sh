@@ -12,7 +12,7 @@
 #then 
 #echo "muito obrigado $nome / status $?"
 #else 
-#echo "vai te fuder / status $?"
+#echo "vai embora / status $?"
 #fi
 
 #cchecklist
@@ -30,7 +30,7 @@
 #echo "vc desistiu"
 #fi 
 
-#dialog --title "criando com dialog" --msgbox "salve cuzao" 10 40 #10 40 eh tamanho
+#dialog --title "criando com dialog" --msgbox "oi amigo" 10 40 #10 40 eh tamanho
 #dialog --yesno "vai mermao" 10 40 
 #nome=$(dialog --inputbox "seu nome" 10 40 --stdout) #redirecionar para saida padrao
 #dialog --textbox us_pswd.txt 30 30 #mostrar conteudo de arquivo
